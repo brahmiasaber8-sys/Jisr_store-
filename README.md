@@ -77,7 +77,7 @@ Just store جسر يوصل بين البائع والمشتري
 <body>
 
   <header>
-    <img src="logo.png" alt="لوغو جسر ستور">
+    <img src="" alt="لوغو جسر ستور"><img src="logo2.png" alt="logo">
     <h1>جسر ستور</h1>
     <p class="slogan">جسر يوصل بين البائع والمشتري</p>
   </header>
