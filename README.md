@@ -85,7 +85,7 @@ Just store جسر يوصل بين البائع والمشتري
 
   <div class="product">
     <img src="product.jpg" alt="صورة المنتج">
-    <p class="price">السعر: 1000 دج</p>
+    <p class="price">السعر 1000 دج</p>
     <button class="order-button" onclick="window.location.href='https://forms.gle/PUT_YOUR_FORM_LINK_HERE'">اطلب الآن</button>
   </div>
 
