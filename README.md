@@ -75,3 +75,8 @@ h1{color:#1a237e;margin:0;}
 
 </body>
 </html>
+<meta property="og:title" content="Jisr Store - اطلب منتجك الآن!">
+<meta property="og:description" content="أفضل المنتجات مع توصيل سريع، اطلب عبر واتساب بسهولة.">
+<meta property="og:image" content="رابط_صورة_جذابة.jpg">
+<meta property="og:url" content="https://brahmiasaber8-sys.github.io/Jisr_store-/">
+<meta property="og:type" content="website">
